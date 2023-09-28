@@ -5,6 +5,7 @@ from tkinter import ttk
 
 
 path = os.path.dirname(os.path.abspath(__file__))
+print("PATH: ",path)
 
 
 def total_working_hours(path):
