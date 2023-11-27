@@ -10,5 +10,5 @@ Purpose of the script:
 
 ## Key Note
 
-Strict Open XML Spreadsheet and Excel Workbook save with the name file extension name (.xlsx). However, their formats to work with are different. Therefore
+Strict Open XML Spreadsheet and Excel Workbook save with the same name file extension name (.xlsx). However, their formats to work with are different. Therefore
 when saving the excel sheets, please save it as an Excel Workbook, since the script will not work with the other format.
